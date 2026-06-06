@@ -85,4 +85,4 @@ echo 'echo hello | cat' | ./minishell
 ## Notes
 
 - The project keeps command history through Readline history APIs.
-- If parsing fails (for example unclosed quotes or syntax errors), the shell reports errors and continues running.
+- If parsing fails (for example, unclosed quotes or syntax errors), the shell reports errors and continues running.
